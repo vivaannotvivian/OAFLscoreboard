@@ -9,3 +9,5 @@ E - +1 to Ayo Score
 O - -1 to Josh Score
 
 P - +1 to Josh Score
+
+B - Toggle through first, second, third, and fourth down
